@@ -1,5 +1,9 @@
 # 2024/05/05
 
+Here’s the updated README with the Table of Contents reflecting the new placement for **Infinite Mini-Games**:
+
+---
+
 # Tower Defense Game
 
 A feature-rich tower defense game where strategy, resource management, and quick thinking collide. Players must defend their castle from waves of enemies by deploying troops, participating in mini-games, and mastering the art of resource allocation.
@@ -16,11 +20,12 @@ A feature-rich tower defense game where strategy, resource management, and quick
    - [Enemy AI](#enemy-ai)
    - [Resource Management](#resource-management)
    - [Interactive Screens](#interactive-screens)
-   - [Infinite MiniGames Mode](Infinite-MiniGames-Mode)
+   - [Infinite Mini-Games](#infinite-mini-games)
 3. [Installation](#installation)
 4. [How to Play](#how-to-play)
 5. [File Descriptions](#file-descriptions)
 6. [Future Enhancements](#future-enhancements)
+7. [License](#license)
 
 ---
 
@@ -128,7 +133,7 @@ The game features multiple screens, each with its purpose:
 
 ---
 
-### Infinite MiniGames Mode
+### Infinite Mini Games
 
 The **Infinite Mini-Games** mode offers a unique gameplay twist, allowing players to engage in endless rounds of mini-games. Unlike the main tower defense game, this mode focuses solely on mini-game challenges, testing the player's skills and endurance.
 
