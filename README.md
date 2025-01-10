@@ -20,7 +20,6 @@ A feature-rich tower defense game where strategy, resource management, and quick
 4. [How to Play](#how-to-play)
 5. [File Descriptions](#file-descriptions)
 6. [Future Enhancements](#future-enhancements)
-7. [License](#license)
 
 ---
 
