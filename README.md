@@ -1,9 +1,5 @@
 # 2024/05/05
 
-Here’s the updated README with the Table of Contents reflecting the new placement for **Infinite Mini-Games**:
-
----
-
 # Tower Defense Game
 
 A feature-rich tower defense game where strategy, resource management, and quick thinking collide. Players must defend their castle from waves of enemies by deploying troops, participating in mini-games, and mastering the art of resource allocation.
