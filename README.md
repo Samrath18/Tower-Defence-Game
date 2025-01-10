@@ -16,6 +16,7 @@ A feature-rich tower defense game where strategy, resource management, and quick
    - [Enemy AI](#enemy-ai)
    - [Resource Management](#resource-management)
    - [Interactive Screens](#interactive-screens)
+   - [Infinite MiniGames Mode](Infinite-MiniGames-Mode)
 3. [Installation](#installation)
 4. [How to Play](#how-to-play)
 5. [File Descriptions](#file-descriptions)
@@ -127,7 +128,7 @@ The game features multiple screens, each with its purpose:
 
 ---
 
-### Infinite Mini-Games Mode
+### Infinite MiniGames Mode
 
 The **Infinite Mini-Games** mode offers a unique gameplay twist, allowing players to engage in endless rounds of mini-games. Unlike the main tower defense game, this mode focuses solely on mini-game challenges, testing the player's skills and endurance.
 
